@@ -4,7 +4,7 @@
 >
 > — Orison Swett Marden
 
-Working towards a BSc in Computer Science with a Minor in Business at MacEwan University. I lowkey have a BSc Specialization in Immunology & Infection.
+Software Developer and Applied AI Researcher based in Alberta, Canada.
 
 Currently a **Data Annotation Specialist, Software Engineering** at [Cohere](http://cohere.com/), and a **Database Administrator Intern** at [The Water Federation](https://www.abwaterco-op.com/), where I'm migrating a legacy Access database to PostgreSQL behind a 125-test fidelity suite. I also build [imapped](https://imapped.ca), alongside private projects around tech solutions, AI, and entrepreneurship.
 
