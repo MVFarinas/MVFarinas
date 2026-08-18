@@ -6,7 +6,7 @@ Working towards a BSc in Computer Science with a Minor in Business. I lowkey hav
 
 - **Data Annotation Specialist, Software Engineering** @ Cohere
 - **Database Administrator Intern** @ The Water Federation
-- **[imapped](https://imapped.ca)** — 5-person student venture; I own the web core, landing page, and release engineering
+- **[imapped](https://imapped.ca)**
 - Private projects around tech solutions, AI, and entrepreneurship
 
 ## Working with
