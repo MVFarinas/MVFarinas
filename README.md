@@ -20,4 +20,4 @@ Previously worked as a Lab Specialist for [COVID-19 surveillance](https://covid-
 
 ---
 ## Check out these links:
-[Online Portfolio](https://www.markfarinas.com/) · [LinkedIn](https://www.linkedin.com/in/markvincentfarinas/) · [Twitter](https://twitter.com/MVAFCode)
+[![Online Portfolio](https://img.shields.io/badge/Online%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.markfarinas.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/markvincentfarinas/) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MVAFCode)
