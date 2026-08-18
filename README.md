@@ -8,7 +8,7 @@ Currently a **Data Annotation Specialist, Software Engineering** at [Cohere](htt
 
 I co-authored *Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant*, accepted to IEEE SmartEdu 2026, with its [code and data archived on Zenodo](https://doi.org/10.5281/zenodo.21569635) (arxiv version coming soon). **Schedulater**, the exam-deferral platform that policy assistant runs inside, took [1st place](https://lnkd.in/p/gXAatQCV) in MacEwan's IEEE-sponsored Software Engineering Competition.
 
-Previously worked as a Lab Specialist [COVID-19 surveillance](https://covid-tracker.chi-csm.ca/) at Alberta Precision Labs where I did a bunch of qPCR, dPCR, RNA extraction.
+Previously worked as a Lab Specialist for [COVID-19 surveillance](https://covid-tracker.chi-csm.ca/) at Alberta Precision Labs where I did a bunch of qPCR, dPCR, RNA extraction.
 
 ---
 ## Check out these links:
