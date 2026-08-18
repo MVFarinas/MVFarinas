@@ -1,4 +1,4 @@
-# Hey, I'm Mark - Software Developer/AI Researcher/Entrepreneur
+# Hey, I'm Mark - Software Developer/ AI Researcher/ Entrepreneur
 
 > Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them.
 >
