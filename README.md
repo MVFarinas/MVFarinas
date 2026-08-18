@@ -1,4 +1,4 @@
-# Hey, I'm Mark - Software Developer/ AI Researcher/ Entrepreneur
+# Hey, I'm Mark - Software Developer · AI Researcher · Entrepreneur
 
 > Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them.
 >
@@ -20,4 +20,4 @@ Previously worked as a Lab Specialist for [COVID-19 surveillance](https://covid-
 
 ---
 ## Check out these links:
-[markfarinas.com](https://www.markfarinas.com/) · [LinkedIn](https://www.linkedin.com/in/markvincentfarinas/) · [@MVAFCode](https://twitter.com/MVAFCode)
+[Online Portfolio](https://www.markfarinas.com/) · [LinkedIn](https://www.linkedin.com/in/markvincentfarinas/) · [Twitter](https://twitter.com/MVAFCode)
